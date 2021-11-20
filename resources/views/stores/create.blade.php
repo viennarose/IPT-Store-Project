@@ -24,7 +24,7 @@
                     </div>
 
                     <div class="form-group">
-                        {{Form::label('net_worthr', 'Net Worth')}}
+                        {{Form::label('net_worth', 'Net Worth')}}
                         {{Form::number('net_worth', null, ['class' =>'form-control'])}}
                     </div>
                     <div class="form-group">
